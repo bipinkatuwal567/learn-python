@@ -27,4 +27,4 @@ for charater in username:
 # To check if a certain phrase or character is present in a string, we can use the keyword in.
 
 txt = "The best things in life are free!"
-print("free" in txt) # It will print true
+print("free" in txt) # It will print true 
